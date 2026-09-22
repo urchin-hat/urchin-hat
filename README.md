@@ -41,15 +41,7 @@
 
 ## Featured Projects
 
-- **[clamchowder](https://github.com/urchin-hat/clamchowder)** — A meta-framework for standardizing operational commands and managing their logic, configuration, and documentation together.
-- **[mcenv](https://github.com/urchin-hat/mcenv)** — A lightweight tool for switching between multiple MySQL connection settings with less friction.
-
-## Latest Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [週報（2026/9/19） - エージェント時代の仕事論とSRE自動化境界、Gyazo不正アクセスと開発投資の期待値](https://urchin-hat.org/memo/posts/weekly-report-20260919/)
-- [「gitでいいじゃん？」から始めるGitHub CLI入門](https://urchin-hat.org/memo/posts/memo-study-gh/)
-- [AIエージェントを使い倒せ！Android CLIとSkillsでネイティブアプリをゼロから作る](https://urchin-hat.org/memo/posts/memo-study-android/)
-<!-- BLOG-POST-LIST:END -->
-
-→ [Read more on urchin-hat.org](https://urchin-hat.org/memo/)
+<p align="center">
+  <a href="https://github.com/urchin-hat/clamchowder"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=clamchowder&amp;description_lines_count=2" alt="clamchowder repository" /></a>
+  <a href="https://github.com/urchin-hat/mcenv"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=mcenv&amp;description_lines_count=2" alt="mcenv repository" /></a>
+</p>
