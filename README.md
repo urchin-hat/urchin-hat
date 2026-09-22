@@ -7,18 +7,10 @@
 <img src="./urchin-hat.gif" width="320" alt="焚き火のそばに座る、ウニ帽子をかぶったキャラクター" />
 
 <p>
-  <a href="https://urchin-hat.org/">
-    <img src="https://img.shields.io/badge/Website-urchin--hat.org-1f2937?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website" />
-  </a>
-  <a href="https://urchin-hat.org/memo/">
-    <img src="https://img.shields.io/badge/Tech_Memo-Read-1f2937?style=flat-square&amp;logo=hugo&amp;logoColor=white" alt="Tech Memo" />
-  </a>
-  <a href="https://www.linkedin.com/in/syohei-fukushima-31b9a4426">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/urchin_hat">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" />
-  </a>
+  <a href="https://urchin-hat.org/"><img src="https://img.shields.io/badge/Website-urchin--hat.org-1f2937?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://urchin-hat.org/memo/"><img src="https://img.shields.io/badge/Tech_Memo-Read-1f2937?style=flat-square&amp;logo=hugo&amp;logoColor=white" alt="Tech Memo" /></a>
+  <a href="https://www.facebook.com/294fk?locale=ja_JP"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/urchin_hat"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" /></a>
 </p>
 
 </div>
