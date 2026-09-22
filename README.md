@@ -4,8 +4,7 @@
 
 **SRE / Infrastructure Engineer — Tokyo, Japan**
 
-暗いシステムの海を、ランタンひとつで歩く旅人。<br>
-静かに観測し、確かな明日をつくる。
+<img src="./urchin-hat.gif" width="320" alt="焚き火のそばに座る、ウニ帽子をかぶったキャラクター" />
 
 <p>
   <a href="https://urchin-hat.org/">
