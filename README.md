@@ -41,8 +41,10 @@
 
 ## Featured Projects
 
-- **[clamchowder](https://github.com/urchin-hat/clamchowder)** — A meta-framework for standardizing operational commands and managing their logic, configuration, and documentation together.
-- **[mcenv](https://github.com/urchin-hat/mcenv)** — A lightweight tool for switching between multiple MySQL connection settings with less friction.
+<p align="center">
+  <a href="https://github.com/urchin-hat/clamchowder"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=clamchowder&amp;theme=github_dark&amp;hide_border=true&amp;description_lines_count=2" alt="clamchowder repository" /></a>
+  <a href="https://github.com/urchin-hat/mcenv"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=mcenv&amp;theme=github_dark&amp;hide_border=true&amp;description_lines_count=2" alt="mcenv repository" /></a>
+</p>
 
 ## Latest Posts
 
