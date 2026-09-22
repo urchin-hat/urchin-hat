@@ -38,10 +38,3 @@
     <img width="560" src="https://github-stats-extended.vercel.app/api/top-langs/?username=urchin-hat&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;card_width=420&amp;theme=github_dark&amp;hide_border=true&amp;hide_title=true" alt="Most used languages in urchin-hat's public repositories" />
   </a>
 </p>
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/urchin-hat/clamchowder"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=clamchowder&amp;description_lines_count=2" alt="clamchowder repository" /></a>
-  <a href="https://github.com/urchin-hat/mcenv"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=mcenv&amp;description_lines_count=2" alt="mcenv repository" /></a>
-</p>
