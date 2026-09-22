@@ -7,7 +7,20 @@
 暗いシステムの海を、ランタンひとつで歩く旅人。<br>
 静かに観測し、確かな明日をつくる。
 
-[Portfolio & Tech Memo](https://urchin-hat.org/)
+<p>
+  <a href="https://urchin-hat.org/">
+    <img src="https://img.shields.io/badge/Website-urchin--hat.org-1f2937?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website" />
+  </a>
+  <a href="https://urchin-hat.org/memo/">
+    <img src="https://img.shields.io/badge/Tech_Memo-Read-1f2937?style=flat-square&amp;logo=hugo&amp;logoColor=white" alt="Tech Memo" />
+  </a>
+  <a href="https://www.linkedin.com/in/syohei-fukushima-31b9a4426">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/urchin_hat">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X" />
+  </a>
+</p>
 
 </div>
 
