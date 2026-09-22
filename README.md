@@ -42,8 +42,8 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/urchin-hat/clamchowder"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=clamchowder&amp;theme=github_dark&amp;hide_border=true&amp;description_lines_count=2" alt="clamchowder repository" /></a>
-  <a href="https://github.com/urchin-hat/mcenv"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=mcenv&amp;theme=github_dark&amp;hide_border=true&amp;description_lines_count=2" alt="mcenv repository" /></a>
+  <a href="https://github.com/urchin-hat/clamchowder"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=clamchowder&amp;description_lines_count=2" alt="clamchowder repository" /></a>
+  <a href="https://github.com/urchin-hat/mcenv"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=urchin-hat&amp;repo=mcenv&amp;description_lines_count=2" alt="mcenv repository" /></a>
 </p>
 
 ## Latest Posts
