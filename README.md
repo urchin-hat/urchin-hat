@@ -2,7 +2,7 @@
 
 # Hi, I'm urchin_hat 👋
 
-**SRE / Infrastructure Engineer — Tokyo, Japan**
+**SRE / Infrastructure Engineer**
 
 <img src="./urchin-hat.gif" width="320" alt="焚き火のそばに座る、ウニ帽子をかぶったキャラクター" />
 
