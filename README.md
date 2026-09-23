@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm urchin_hat 👋
+# Hello, I'm urchin-hat <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 **SRE / Infrastructure Engineer**
 
