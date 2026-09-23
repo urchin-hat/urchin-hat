@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,bsd,raspberrypi,bash,nginx,py,django,go,java,spring,zig,mysql,aws,gcp,azure,terraform,ansible,docker,kubernetes,grafana,git,gitlab,neovim,latex&perline=12" alt="Linux, Red Hat, BSD, Raspberry Pi, Bash, Nginx, Python, Django, Go, Java, Spring, Zig, MySQL, AWS, Google Cloud, Azure, Terraform, Ansible, Docker, Kubernetes, Grafana, Git, GitLab, Neovim, and LaTeX" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,bsd,raspberrypi,bash,nginx,py,django,go,java,spring,zig,mysql,aws,gcp,azure,terraform,ansible,docker,kubernetes,grafana,git,gitlab,neovim&perline=12" alt="Linux, Red Hat, BSD, Raspberry Pi, Bash, Nginx, Python, Django, Go, Java, Spring, Zig, MySQL, AWS, Google Cloud, Azure, Terraform, Ansible, Docker, Kubernetes, Grafana, Git, GitLab, and Neovim" />
   </a>
 </p>
 
